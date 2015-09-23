@@ -1,0 +1,45 @@
+
+
+div#casulo {
+	 width: 1000px;
+	 margin: 0 auto; /* (top e battom) (left e right) */
+
+}
+
+body {
+	margin: 0;
+    background:white;
+    text-align: center;
+    background:url(animes.jpg);
+    background-size: cover;
+}
+
+
+div#principal {
+	background:white;
+	width:900px; 
+	float: left;
+	color: white;
+	background: rgba(0,0,255,0.3);
+}
+
+
+
+div#principal img {
+	width: 700px;
+}
+
+div#lateral {
+     background:white;
+     width:300px ;	
+     float:left;
+
+}
+
+#principal,h1 {
+	font-family: 'pacifico',cursive;
+
+}
+
+#principal,h2 {
+	font-family: 'Lobster', cursive;
